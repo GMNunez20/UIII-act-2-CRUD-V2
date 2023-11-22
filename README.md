@@ -6,7 +6,7 @@ Empresa: Lote de carros. Tabla: Vehículos
 ![](https://github.com/GMNunez20/UIII-act-2-CRUD-V2/blob/main/2.png)
 
 ## Base de Datos
-![]()
+![](https://github.com/GMNunez20/UIII-act-2-CRUD-V2/blob/main/3.png)
 ![]()
 ![]()
 ![]()
