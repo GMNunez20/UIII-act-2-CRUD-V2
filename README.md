@@ -12,5 +12,5 @@ Empresa: Lote de carros. Tabla: Vehículos
 ## Editar
 ![](https://github.com/GMNunez20/UIII-act-2-CRUD-V2/blob/main/5.png)
 
-##Eliminar
+## Eliminar
 ![](https://github.com/GMNunez20/UIII-act-2-CRUD-V2/blob/main/6.png)
